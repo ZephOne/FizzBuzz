@@ -1,0 +1,6 @@
+[package]
+name = "fizzbuzz"
+version = "0.1.0"
+authors = ["Erwan Colin <erwan.colin@mines-albi.fr>"]
+
+[dependencies]
